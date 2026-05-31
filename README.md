@@ -24,3 +24,5 @@ This project is a machine learning-based diet recommendation system that predict
 
 3. Run application:
    python Dietplan.py
+
+   Project documentation updated.
